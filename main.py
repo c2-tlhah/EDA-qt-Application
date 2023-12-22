@@ -1,9 +1,6 @@
 import os
 import sys
 
-import matplotlib.pyplot as plt
-from pyqt5_plugins.examplebuttonplugin import QtGui
-
 from findPathWidget import FindPathWidget
 from imageView import ImageView
 from script import get_df, CHART_TYPE_DICT, TEMP_SAVE_FILENAME, summary
