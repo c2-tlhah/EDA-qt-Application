@@ -1,7 +1,7 @@
 # pyqt-dataset-EDA-helper
 Using PyQt GUI to show performing Exploratory Data Analysis (EDA) on the CSV dataset used for binary or softmax text classification
 
-I created [this Kaggle notebook](https://www.kaggle.com/code/yaaangzhou/pg-s3-e26-eda-modeling/notebook) with reference to it. Not all the graphs(or charts) were referenced.
+I created this based on [this Kaggle notebook](https://www.kaggle.com/code/yaaangzhou/pg-s3-e26-eda-modeling/notebook). Not all the graphs(or charts) were referenced.
 
 # Requirements
 * PyQt5>=5.14
