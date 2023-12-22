@@ -9,6 +9,7 @@ I created [this Kaggle notebook](https://www.kaggle.com/code/yaaangzhou/pg-s3-e2
 * seaborn
 * pandas
 * scikit-learn
+* jinja2 - For the sole purpose of handling dependencies
 
 ## What is EDA?
 EDA stands for **Exploratory Data Analysis**. It is an approach to analyzing and visualizing data sets to summarize their main characteristics, often with the help of statistical graphics and other data visualization methods. The goal of EDA is to gain insights into the underlying patterns, relationships, and distributions within the data before applying more formal statistical techniques.
