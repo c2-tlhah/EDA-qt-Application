@@ -3,6 +3,8 @@ Using PyQt GUI to show performing Exploratory Data Analysis (EDA) on the CSV dat
 
 I created this based on [this Kaggle notebook](https://www.kaggle.com/code/yaaangzhou/pg-s3-e26-eda-modeling/notebook). Not all the graphs(or charts) were referenced.
 
+## If you find good graph, share it here.
+
 # Requirements
 * PyQt5>=5.14
 * matplotlib
