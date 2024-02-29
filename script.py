@@ -22,8 +22,6 @@ def get_df(filepath):
 
     return df, label_column
 
-# https://www.kaggle.com/code/yaaangzhou/pg-s3-e26-eda-modeling/notebook
-# EDA
 
 # To find out count of unique value of each column
 def summary(df):
